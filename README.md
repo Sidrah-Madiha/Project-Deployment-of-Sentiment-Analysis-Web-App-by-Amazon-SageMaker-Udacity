@@ -15,3 +15,5 @@ The notebook and Python files provided here, results in a simple web app which i
  - Click Create
  - After a while the notebook will be created, click "SageMaker Project.ipynb" to open the project. The rest of the project details are present in the notebook itself.
 
+
+Note: Since AmazonSage Maker deploys model to an endpoint and this endpoint costs as long as it is running, therefore after the Project was reviewed and passed assessment, I deleted that endpoint so that I am not billed indefinitely!
